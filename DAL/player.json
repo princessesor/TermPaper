@@ -1,0 +1,22 @@
+[
+  {
+    "player": "john",
+    "data": {
+      "first name": "john",
+      "last name": "joe",
+      "dob": "3/6/94",
+      "status": "active",
+      "salary": "00,000,000"
+    }
+  },
+  {
+    "games": "volleyball",
+    "data": {
+      "first name": "john",
+      "last name": "joe",
+      "dob": "3/6/94",
+      "status": "active",
+      "salary": "00,000,000"
+    }
+  }
+]
